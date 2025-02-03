@@ -1,4 +1,4 @@
-##personal portfolio
+## personal portfolio
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience using a clean and interactive web design.
 
 ## 📌 About Personal Portfolio
